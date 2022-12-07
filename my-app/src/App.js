@@ -6,7 +6,7 @@ class App extends Component() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src="public/IMG_0915.JPG" className="App-logo" alt="logo" />
+          <img src="IMG_0915.JPG" alt="Nordmoe and the Rodeo" />
           <p>
            You're in Nordmoe Country now
           </p>
